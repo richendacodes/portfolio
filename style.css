@@ -40,6 +40,19 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+.project {
+	border-bottom: 1px solid #DDD;
+}
+
+.project img, .project img a {
+	width: 150px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	float: left;
+	padding: 5px;
+	border: 1px #DDD solid;
+}
+
 .social {
 	width: 20px;
 }
