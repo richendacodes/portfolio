@@ -2,15 +2,26 @@
 
 
 body {
-	background-color: #DDD;
-	font-family: Arial;
-	font-size: 16px;
-	background-image: url('../img/bg_damask1.jpg'); 
+	/*background-color: #DDD;*/
+	/*background-image: url('../img/bg_damask1.jpg'); */
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "PT Sans Narrow";
 }
+
+.icon15 {
+	width: 15px;
+}
+
+
+
+
+
+
+
+
+
 
 .menu {
 	float: right; 
