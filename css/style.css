@@ -2,15 +2,31 @@
 
 
 body {
-	background-color: #DDD;
-	font-family: Arial;
-	font-size: 16px;
-	background-image: url('bg_damask1.jpg');
+	font-size: 14px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "PT Sans Narrow";
 }
+
+.icon15 {
+	width: 15px;
+}
+
+.portimg {
+	width: 150px;
+	float: left;
+	margin-right:15px;
+}
+
+
+
+
+
+
+
 
 .menu {
 	float: right; 
